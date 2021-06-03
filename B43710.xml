@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The vertuous wife is the glory of her husband; or A good woman in her proper colours. Shewing at large the rare endowments, excellent qualities, that are as ornaments and jewels, which bedeck the breast of the truly vertuous woman.  Also ten characters, or rare jewels, hanging in the crown of the vertuous wife, who is the glory of her husband, the honour of her age, the mirrour of her sex, the best earthly portion in the world.  Likewise many examples, as well modern as divine, queens, princes, and ladies, eminent for vertue and goodness.  Lastly, a few counsels to all young men to be wary in their choice, if ever they would obtain, that portion or portions and incomparable jewel, the good wife / by L.P.  A well-wisher to all good women.</title>
+            <author>L. P. (Laurence Price), fl. 1625-1680?</author>
+         </titleStmt>
+         <extent>Approx. 25KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43710</idno><idno type="EEBO-CITATION">690988616</idno>
+  <idno type="VID">211656</idno>
+  <idno type="EEBO-PROQUEST">2240877555</idno>
+  
+            <idno type="OCLC"> 690988616</idno>
+            <idno type="OCLC">ocn 690988616</idno>
+            <idno type="STC">Wing P3387</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43710)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 211656)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2983:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The vertuous wife is the glory of her husband; or A good woman in her proper colours. Shewing at large the rare endowments, excellent qualities, that are as ornaments and jewels, which bedeck the breast of the truly vertuous woman.  Also ten characters, or rare jewels, hanging in the crown of the vertuous wife, who is the glory of her husband, the honour of her age, the mirrour of her sex, the best earthly portion in the world.  Likewise many examples, as well modern as divine, queens, princes, and ladies, eminent for vertue and goodness.  Lastly, a few counsels to all young men to be wary in their choice, if ever they would obtain, that portion or portions and incomparable jewel, the good wife / by L.P.  A well-wisher to all good women.</title>
+                  <author>L. P. (Laurence Price), fl. 1625-1680?</author>
+               </titleStmt>
+               <extent>21, [2] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. Passenger, at the Three Bibles on the middle of London-bridge,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1667.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>L.P. = Laurence Prince.  Cf.  Wing (2nd ed.).</note>
+                  <note>Frontispiece includes verse.</note>
+                  <note>Publishers advertisements on [2] p. at end.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Women --  Conduct of life --  England --  Early works to 1800.</term>
+               <term type="topical_term">Christian life --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:211656:1"/>
+            <pb facs="tcp:211656:2"/>
+            <pb facs="tcp:211656:2"/>
+            <head>The Vertuous Wife is the glory of her Husband; <hi>OR,</hi> A good woman in her proper Colours.</head>
+            <argument>
+               <l>Who for Beauty, Modesty and Grace,</l>
+               <l>Her comely Carriage, and her vertuous Life,</l>
+               <l>Was nere ashamed yet, for to shew her face,</l>
+               <l>And own her name, <hi>(The good and Vertuous Wife.)</hi>
+               </l>
+            </argument>
+            <p>
+               <figure>
+                  <p>Many Daughters have done vertuously, but thou excellest them all.</p>
+               </figure>
+            </p>
+            <l>Look on her comely Face, her vertuous dress,</l>
+            <l>Tis neat though homely, you must needs confess,</l>
+            <l>Her very gesture shews a mind well fraught,</l>
+            <l>With grace and goodness, hating all that's naught.</l>
+            <l>you see her, Buy her, read her at your leisure,</l>
+            <l>Twill tend as much to profit as to pleasure.</l>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:211656:3"/>
+            <pb facs="tcp:211656:3"/>
+            <p>THE VERTUOUS WIFE Is the Glory of her <hi>Husband;</hi> OR, A Good <hi>Woman</hi> in her Proper Colours.</p>
+            <p>Shewing at large the Rare Endowments, Excel<g ref="char:EOLhyphen"/>lent qualities, that are as Ornaments and Jewels, which bedeck the breast of the truly Vertuous Woman.</p>
+            <p>Also ten Characters, or rare Jewels, hanging in the Crown of the vertuous Wife, who is the Glory of her Husband, the honour of her age, the mirrour of her Sex, the best Earthly Por<g ref="char:EOLhyphen"/>tion in the world.</p>
+            <p>Likewise many examples, as well Modern as Di<g ref="char:EOLhyphen"/>vine, Queens, Princes, and Ladies, eminent for Vertue and Goodness.</p>
+            <p>Lastly, A few counsels to all young men to be wary in their choice, if ever they would ob<g ref="char:EOLhyphen"/>tain, that portion of portions, and Incompa<g ref="char:EOLhyphen"/>rable Jewel, the Good Wife.</p>
+            <q>
+               <bibl>Prov. 31.30.</bibl>
+               <p>Favour is deceitful, and beauty is vain, but the woman that fears the Lord, she shall be praised.</p>
+            </q>
+            <p>By <hi>L. P.</hi> A well-wisher to all Good Women.</p>
+            <p>Printed for <hi>T. Passenger,</hi> at the three Bibles on the middle of London-Bridge. 1667.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:211656:4"/>
+            <pb facs="tcp:211656:4"/>
+            <head>The Epistle to the Reader.</head>
+            <opener>
+               <salute>COurteous Reader,</salute>
+            </opener>
+            <p>I here present unto thy view, a true description and Character of a vertuous Wife, set forth in her proper colours. Perhaps thou may'st wonder, that I would un<g ref="char:EOLhyphen"/>dertake to write any thing in the defence of that Sex, which so many have spent their railing dis<g ref="char:EOLhyphen"/>courses against: the more need therefore there is, that something appear in Print for the justify<g ref="char:EOLhyphen"/>ing of those, whom so many condemne. Dare you say (because so many appear to be bad) that none are good? Examples in all ages and in the worst of times, do at large declare, Famous Monuments of vertue, wisdom, and all graces are to be seen of women. Because some are wantons, Dare you say all are unchast? though there be some counterfeit Gold, so there is some true Gold; and though men happen on a wicked dissolute woman, yet all do not so: some thrive by throwing the Dice: as there is dross, so there are some Jewels: as there is gall, so there is some Honey. Therefore Condemn not all for one, but be advised to be wary in thy cho<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce, and be not afraid to lye in the grass, because a snake lyeth there. Men are not afraid to go to Sea, b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cause some men are d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>owned at Sea: neither are men afraid to go to bed, because some men die in their beds; so be not afraid to marry, because some men have ill fortune by Marriage.</p>
+            <pb facs="tcp:211656:5"/>
+            <p>But behold this book, and see the Lively cha<g ref="char:EOLhyphen"/>racter of the vertuous wife drawn to the life. A vertuous woman is a good mans portion. Endea<g ref="char:EOLhyphen"/>vour after vertue thy self, and in time thou mayst find to thy happy content the Rare Jewel, called a Good wife, which are the hearty wishes of the Author.</p>
+            <closer>
+               <signed>L. P.</signed>
+            </closer>
+            <epigraph>
+               <q>
+                  <l>LO here the matchless pattern of wife,</l>
+                  <l>In vertue clad set forth unto the life;</l>
+                  <l>For good behaviour, modesty and wit,</l>
+                  <l>And other graces, which her mind befit:</l>
+                  <l>A perfect wife, a vertuous comely Dame,</l>
+                  <l>A Vertuous VVoman is she call'd by Name:</l>
+                  <l>He that enjoys her, hath all worldly good,</l>
+                  <l>A blessed portion, cloath'd in flesh and blood.</l>
+                  <l>H'hath got himself a pattern for his life,</l>
+                  <l>More <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hen a woman, better then a wife.</l>
+                  <l>Beauty affords content but to the eye,</l>
+                  <l>Honour Jllustrates what it cometh nigh.</l>
+                  <l>These are but complements, 'tis inward worth,</l>
+                  <l>That onely sets a Vertuous woman forth.</l>
+                  <l>Go vertuous Dame and shew thy inward grace,</l>
+                  <l>Thy outward carriage, gesture, wit, and face:</l>
+                  <l>That he who sees thee, may wish 'twere his fate,</l>
+                  <l>To live and dye with such a vertuous Mate.</l>
+               </q>
+            </epigraph>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="7" facs="tcp:211656:5"/>
+            <head>The Good Portion for good Men: OR, A Vertuous Woman a good mans Portion. Many Daughters have done Vertuously, but thou excellest them all.</head>
+            <p>
+               <seg rend="decorInit">O</seg>F Men that have béen remark<g ref="char:EOLhyphen"/>ably Vertuous, and patterns for piety, and all other graces, Histories as well Modern as Divine, have very largely dis<g ref="char:EOLhyphen"/>coursed of: and infinite of ex<g ref="char:EOLhyphen"/>amples of all Ages and Generations do in a<g ref="char:EOLhyphen"/>bundance witness the same. Yet should I recount them all, They can never excéed th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="8" facs="tcp:211656:6"/> piety and vertue which I have read of in Women, who have béen famous for all ver<g ref="char:EOLhyphen"/>tues. I shall therefore in the first place en<g ref="char:EOLhyphen"/>deavour to lay before you the Character of a vertuous wife, in nine or ten Particulars, and then leave a few counsels and wholsom rules, for the practice of young men to attain the Subject, called, <hi>The Vertuous wife.</hi>
+            </p>
+            <p n="1">1. The first Character of a good Wife, is this; She is one who hath the fear of God before her eyes, though the Daughters of <hi>Zion</hi> be haughty, and go with a stiff neck, and all their actions bespeak their Pride, the vertuous Wife will endeavour in all things to kéep a conscience void of offence both to<g ref="char:EOLhyphen"/>ward God and toward Man: though others can sin with a high hand, and commit iniqui<g ref="char:EOLhyphen"/>ty with gréediness, she dares not, will not, disobey God, for fear of that wrath and judgement which is denounced against all those who break his Commands, <hi>but she walks not as a fool but as wise, Redeeming the time, knowing the days are evil:</hi> so in hopes of that recompence of Reward promised to the obedient, she perseveres to the end in every good work, and will not, though to gain a world, let the fear of man over-sway and o<g ref="char:EOLhyphen"/>ver-ballance that fear of God which is al<g ref="char:EOLhyphen"/>ways &amp; upon every account before her eyes.</p>
+            <p n="2">
+               <pb n="9" facs="tcp:211656:6"/>2. The second Character of a Vertuous Wife, is this, she'l endeavor to live in love with, and subiection to her own husband: she's not ready to render railing for railing, and back-biting for back-biting, but follows the example of vertous <hi>Sarah,</hi> who obeyed <hi>Abraham,</hi> and called him Lord: Though her husband be a daily temptation to her, and a great provocation to stir up wrath in her, yet she is equally ballanced, and will love in the midst of envy; she by her vertue will conquer all difficulties, and throw down all temptations which might arise in her spirit to the doing of any evil, or to the commit<g ref="char:EOLhyphen"/>ting of any revenge, but is ready to render good for evil, love for hatred, she is far from the spirit of revenge, she is resolved to live in love, as Christ hath loved her, and given himself for her, she resolves to accompany her master every where, even at such a time when his Disciples left him: as the love of God remains sure, so shall her love and sub<g ref="char:EOLhyphen"/>jection remain to the end, in the midst of all opposition; and in this she is the admiration of all, and a rare pattern as well as a good portion for good men.</p>
+            <p n="3">3. The third Character of a Vertuous Wife, is; she is one who is cloathed with the
+<pb n="10" facs="tcp:211656:7"/> garment of humility, 1 <hi>Pet.</hi> 3.3. whose ador<g ref="char:EOLhyphen"/>ning, let it not be that outward adorning of platting the hair, or wearing of gold, or putting on apparel, but had rather let it be the hidden man of the heart, even the orna<g ref="char:EOLhyphen"/>ments of a méek and quiet spirit, which be<g ref="char:EOLhyphen"/>ing in the sight of God of great price, she de<g ref="char:EOLhyphen"/>sires to be cloathed with it, she desires to be found in a humble frame of spirit before the Lord, knowing the contrite and humble spirit the Lord will not despise: and this is a goodly ornament in a womans breast, and is accompanied with great renown: for while some lofty looks cannot endure the sight of a poor wretch, the woman adorned with humility, will out of the vertuous incli<g ref="char:EOLhyphen"/>nation of her spirit, endeavour to be service<g ref="char:EOLhyphen"/>able in her place and generation, and shew her piety even to poverty: she visits the poor, and refreshes the bowels of the néedy, and her Christian prudence is set before her eyes, to make every thing séem reasonable that is aged by her: humility is a comly ornament in a womans breast.</p>
+            <p n="4">4. She is one who hath learned the rare Iewel, and incomparable art of Christian contentment: come riches or poverty, liberty or restraint, honour or dishonour, life or death come what will come, she hath learn'd
+<pb n="11" facs="tcp:211656:7"/> in every estate to be content: hath God sent her a wicked husband, a man of <hi>Belial,</hi> a man of a contentious spirit, and froward disposi<g ref="char:EOLhyphen"/>tion, she by the help of God is resolved to live in subiection to him, and therefore is ready to give a good example, and grows better, and his sin is a whetstone to her grace, and a me<g ref="char:EOLhyphen"/>dicine for her security: in this she is the glo<g ref="char:EOLhyphen"/>ry of her sex, and the mirror of her age, for though others have their dainties, &amp; delights: Content is her best dish; in the want of all earthly comfort and injoyments, she can sit down with content, and say with the <hi>Psalmist, The Lord is my portion, therefore I shall not want:</hi> She knows that discontent is a viper in the breast, that spits venome in the face of God, therefore resolves in her self to hinder the over-spreading of this fretting Leprosie in her soul, and so continually kéeps spirit in an humble frame, not in any thing extolling her own worth or defects.</p>
+            <p n="5">5. A fifth Character of a vertuous wife, is Patience: hath she crosses either inward or outward, she is resolved to let patience have its perfect work. A hasty froward spirit is contemned by her, she had rather follow the example of <hi>Job,</hi> then <hi>Jobs</hi> wife, though her body be afflicted, her mind distempered, and she be continually surrounded with sorrow,
+<pb n="12" facs="tcp:211656:8"/> yet will she wait upon God patiently all her appointed time, untill her change come. And this grace is an enemy to all hasty and rash spirits, with grief of spirit and trouble of heart it is; which when she considers that daring spéech of <hi>Job's</hi> wife to her husband, when she bad him curse God and dye, for en<g ref="char:EOLhyphen"/>during those afflictions from the Hand of God, she would not for a world tempt the Lords patience so much, by forgetting her own duty and work of patience in her soul.</p>
+            <p n="6">6. A Vertuous wife, is a map of sobriety and modesty. Stubbornness, and obstinacy, are herbs that grow not in her garden, her pride is only to be cleanly, and her thrift not to be prodigal; she scorns the company of tatling Gossips, and is more séen then heard: in her face and gesture, and in all actions, you may read nothing but vertue.</p>
+            <q>
+               <l>Birth, Beauty, Wealth, unless with grace mixt,</l>
+               <l>Are too poor things for generous hearts to fix,</l>
+               <l>Sobriety and modesty, in one,</l>
+               <l>Are Jewels rare which grace the head alone.</l>
+            </q>
+            <p n="7">7. She is very careful of her domestick Charg<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. Though wantons and careless hous<g ref="char:EOLhyphen"/>wives are gadding abroad and wantonizing among their companions, and cares not
+<pb n="13" facs="tcp:211656:8"/> which end goes formost at home, yet the ver<g ref="char:EOLhyphen"/>tuous woman, out of the generousness of her spirit, is resolved to be a pattern to all wo<g ref="char:EOLhyphen"/>men, and will be so diligent in her domestick charge, that no one shall have the least cause to cast the least aspersion upon her: she will be very careful to provide things necessary for her family, in this she is resolved to pre<g ref="char:EOLhyphen"/>serve her Reputation unspotted; for what ever private imployment she hath of her own, she is careful first about her houshold charge, to sée that every thing be done in due order, shewing her self in all things a pattern for good houswives, and is likewise an honour to her Husband.</p>
+            <p n="8">8. She is of a pleasing and swéet dispositi<g ref="char:EOLhyphen"/>on: she hates the humours and ill qualities of those pouting Dames, who think that the best behaviour which is accompanied with pride and Majesty. Now the vertuous will know no difference betwéen the Knight and the Begger, the Lord, and the Peasant, but will be very courteous to all, that he who runs may read vertue in all her actions.</p>
+            <p n="9">9. A vertuous Wife is accompanied with Chastity and Courtesie, which two godly qualities reduce a Woman into a perfect temper: the praises of Chastity are inumer<g ref="char:EOLhyphen"/>able. <hi>Daphne</hi> resisting the wooing of <hi>Apollo,</hi>
+               <pb n="14" facs="tcp:211656:9"/> was turned into a Lawrel, after which he always wore a Lawrel in his Hat, to testifie his Love.</p>
+            <p n="10">10. A Vertuous Wife wears prudence &amp; discretion in all her actions: beauty makes them but humane, but prudence makes them more like divine; if beauty wins them love, prudence makes them worthy of admiration. When <hi>Theseus</hi> was exposed to the <hi>Mercatour</hi> in the Labyrinth, who furnished him with means for his delivery, but by the discretion and prudence of the Princess whom he ser<g ref="char:EOLhyphen"/>ved, else he had never béen disintangled from those intricate windings. When <hi>Lason</hi> was to serve as a prey to the furious Bulls that kept the Fleece, was it not <hi>Medea</hi> that En<g ref="char:EOLhyphen"/>chanted them? and made the passage frée unto the Prince, to carry that away which none durst enterprize.</p>
+            <p>In a word, the man that inioyes her, hath a happy portion, and hath great cause to bless God for his infinite goodness, for sending him such a comfort as a good wife, who for her vertue can parallel, whose greatest learning is Religion, dishonesty ne'r comes nearer then her ears: she hath content of her own, and séeks not a Husband but finds him, the good of her Husband is the business of
+<pb n="15" facs="tcp:211656:9"/> her actions, she doth nothing more then love <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>im, she is made up of goodness.</p>
+            <q>
+               <l>And as she's good, she likewise is discreet,</l>
+               <l>All heavenly graces in her brest do meet:</l>
+               <l>
+                  <hi>A</hi> soul, a body, not a soul alone,</l>
+               <l>Goodness, and wit, and beauty all in one.</l>
+               <l>All pride fast bound in chains behind her lies,</l>
+               <l>Foul lust and envy from her presence flies:</l>
+               <l>And on her brest in golden Letters write,</l>
+               <l>Mans best beloved, and most chiefest delight;</l>
+               <l>He that in's choice doth meet with such a wife,</l>
+               <l>May well rejoyce all the days of his life.</l>
+            </q>
+            <p>Histories make mention of women famous for all vertues, amongst which, lets not for<g ref="char:EOLhyphen"/>get the merit of memory, our late most illu<g ref="char:EOLhyphen"/>strious Quéen <hi>Elizabeth,</hi> of happy memory, who was a <hi>Saba</hi> for her wisom, a warlike <hi>A<g ref="char:EOLhyphen"/>mazon</hi> for her magnanimity, a <hi>Cleopatra</hi> for her bounty, and a <hi>Camelia</hi> for her chastity: all men have spoke too little, no man can speak too much: sacred be still her memory to us on earth, as her blessed soul lives ever blessed in Heaven.</p>
+            <p>Here succéeded (though not in absolute Monarchy) yet a Princess of unspotted fame, incomparable Clemency, and im<g ref="char:EOLhyphen"/>matchable
+<pb n="16" facs="tcp:211656:10"/> goodness, and most remarkable vertue) Quéen <hi>Anne,</hi> whom all degrees ho<g ref="char:EOLhyphen"/>noured, all Nations loved, and no tongue was ever heard to asperse with y<seg rend="sup">e</seg> least Calumny, and by whom none had ever the least cause of sorrow, unless in the lamentable loss of so Grave and Gracious a Princess. And a<g ref="char:EOLhyphen"/>mongst famous Women, lets not forget the late hopeful Lady, the Lady <hi>Elizabeth,</hi> who for all Princely virtues was the mirrour of her Age, and the glory of our Nations! Of Ladies Renowned for Chastity, and other Vertues, whole Volumes are filled with <hi>Lucretia</hi> being adulterated by <hi>Sextus Tarqui<g ref="char:EOLhyphen"/>nus,</hi> after she had sent to her Friends to ac<g ref="char:EOLhyphen"/>quaint them with her injuries, because she would not live to be a by-word to <hi>Rome,</hi> nor preserve a defiled body for so noble a Hus<g ref="char:EOLhyphen"/>band, with a Knife which she had hid un<g ref="char:EOLhyphen"/>der her garment, stab'd her self before them all. Likewise of women eminent for con<g ref="char:EOLhyphen"/>jugal love unto their Husbands, I have read of one <hi>Pandorus,</hi> who had a beautiful young Wife, to whom he was ardently affected: she on a time earnestly desired him to forbear all conflicts with y<seg rend="sup">e</seg> enemy, to endanger both himself and her to ruine; but he by no means would hearken to her entreaties, which cau<g ref="char:EOLhyphen"/>sed
+<pb n="17" facs="tcp:211656:10"/> to beg of him, before he went to end her fears, and transpierce her body with his Sword, which he denyed, and went out to the Battel: but at the first Onset, the whole Army was overthrown, and himself slain, and his beautiful wife immediately took cap<g ref="char:EOLhyphen"/>tive, and carried to the King: whose great beauty much astonied him: insomuch that after a short time he desired her in marriage, which she put off with all possible delays: in<g ref="char:EOLhyphen"/>somuch that he resolved to attain that by compulsion, which he could not by perswa<g ref="char:EOLhyphen"/>sion: which coming to her ears, she retired in private by her self, and wrote these words and left them upon the Table. <hi>(Let none re<g ref="char:EOLhyphen"/>port, that the Wife of Pandorus harboured so little love as to out-live him.)</hi> And then she immediately took a Knife and pierced her self.</p>
+            <p>Thus having given you in brief the true Character of a truely vertuous Wife in her Ornaments most richly deckt, and for her graces for ever be admired. I shall now give a few Counsels to the honest young men of this age, to be wary in their choice, to sée that they be careful to chuse such as are thus qua<g ref="char:EOLhyphen"/>lified: for as there are good and vertuous wo<g ref="char:EOLhyphen"/>men,
+<pb n="18" facs="tcp:211656:11"/> so on the contrary there are too many that are a shame to their S<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>x, a dishonour to their Parents, and the sole troubles of a Fa<g ref="char:EOLhyphen"/>mily: therefore young men, when ever you find a woman cloathed wi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h all those Orna<g ref="char:EOLhyphen"/>ments of vertue, bless God for it, and take her as a rare Iewel, a Princely Portion, lent you to improve to your good, and his glory.</p>
+            <p n="1">1. Be careful young men in your choice, because on it dep<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nds one great part of your welfare here on earth: without this, all your joys will be mixed with abundance of sorrow. What is a greater cause of comfort and joy here on earth, then a vertuous wife? she is a comfort of Youth, the staff of Age, a Iewel, a Cr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wn, an Ornam<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt to her Husband: therefore young men be wary, as ever you would have ioy and comfort in this worth, let it not be enough that beauty adorns her face, but sée that vertue adorns her actions: for the Proverb may of<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> prove true: <hi>Under a fair face may be hid a false heart.</hi> Thou canst not be too cautious in this thy choice: there<g ref="char:EOLhyphen"/>fore be as wary as thou canst.</p>
+            <p n="2">2. The second counsel I would give young men, is this: As I would have you look into
+<pb n="19" facs="tcp:211656:11"/> her qualities and conditions, so inquire after the Life and Conversation of her Parents. If the Parents be vertuous, they will endea<g ref="char:EOLhyphen"/>vour as near as possible, to trace up their Children in the way they should go, that when they are old they may not depart from it: this way, though not always sure, yet it is the surest way thou canst go. Mark diligently, and inquire after her behaviour, sée that she be vertuous, wise, and kind, such a Wife will make thée a happy man, and thy life shall be a comfort, which otherwise would be a burthen to thee, therefore account of her as the onely treasure thou enioyest upon the earth, and the rarest Iewel that ever thou didst or shall enioy in this world.</p>
+            <p n="3">3. Chuse one that is vertuous, because she looketh well <hi>to the ways of her houshold, and eateth not the bread of idleness:</hi> A vertuous Wife is a credit to her Husband. Sée the wisest of men, even <hi>Solomon,</hi> his commen<g ref="char:EOLhyphen"/>dation of a vertuous woman: in the last Chap. of the <hi>Prov.</hi> from Verse 10 to the end▪ <hi>Who can find a vertuous woman? For her price is far above Rubies. The heart of her Husband can safely trust in her, so that she shall have no need of spoil. She will do him good and not evil
+<pb n="20" facs="tcp:211656:12"/> all the days of her life: She seeketh Wool and Flax, and worketh diligently with her hands: She's like the Merchants Ship, she bringeth Food from far. She ariseth also while it is night, and giveth meat to her houshold, and a portion to her Maidens: she considereth a Field and buy<g ref="char:EOLhyphen"/>eth it, with the Fruit of her hands she planteth a Vineyard, she girdeth her loyns with strength, and strengthneth her arms: she conceiveth her merchandize is good, and her candle goeth not out by night: She layeth her hands to the spindle, and her hands hold the distaff: she stretcheth forth her hands to the poor; yea, she stretcheth forth her hands to the needy. She is not afraid of the Snow, for all her houshold are cloathed with Scarlet: She maketh her self coverings of Tape<g ref="char:EOLhyphen"/>stry, her cloathing is Silk and Purple. Her Hus<g ref="char:EOLhyphen"/>band is known in the gates, when he sitteth a<g ref="char:EOLhyphen"/>mong the Elders of the Land: she maketh fine Linnen and selleth it, and delivereth Girdles to the Merchant. Strength and honour are her cloathing, and she shall rejoyce in time to come: she openeth her mouth with wisdom, and in her Tongue is the Law of kindness. She looketh well to the ways of her houshold, and eateth not the bread of idleness: her Children arise up and call her blessed, her husband also, and he prais<g ref="char:EOLhyphen"/>eth her. Many Daughters have done vertuously,
+<pb n="21" facs="tcp:211656:12"/> but thou excellest them all. Favour is deceitful, and Beauty is vain: but a woman that feareth the Lord, she shall be praised. Give her of the Fruit o<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> her hands, and let her own works praise her in the gates.</hi> Here is <hi>Solomons</hi> Emblem of a vertuous wife at large described. Be Cautious then in your choice, and lay this as a pattern before your eyes, as ever you would live happily here, and blessed hereaf<g ref="char:EOLhyphen"/>ter: Endeavour to find the subiect insisted on. <hi>The vertuous Wife.</hi>
+            </p>
+            <epigraph>
+               <q>
+                  <l>So shall your Life</l>
+                  <l>A blessed end procure,</l>
+                  <l>A blessing come by such a Wife,</l>
+                  <l>That ever shall endure.</l>
+               </q>
+            </epigraph>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:211656:13"/>
+            <opener>
+               <salute>COURTEOUS READER,</salute>
+            </opener>
+            <p>Th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>se books following be<g ref="char:EOLhyphen"/>ing of a small Price, and worthy thy perusal, are printed for <hi>Tho. Passenger,</hi> at the three Bibles on the middle of London-bridge.</p>
+            <p>
+               <list>
+                  <item>THe christians Combate, or his true spiritual Warfare, by <hi>C. Love,</hi> late Preacher of the Word in the City of <hi>London.</hi>
+                  </item>
+                  <item>The wise Merchant or the pearl of price, by <hi>T. Calvert,</hi> Minister in <hi>York.</hi>
+                  </item>
+                  <item>The Book of Graces, with prayers for Mor<g ref="char:EOLhyphen"/>ning and Even<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ng:</item>
+               </list> These are sold for three pence a peice.</p>
+            <p>
+               <list>
+                  <item>The School of Learning, or a Guide for Chil<g ref="char:EOLhyphen"/>dren, being a book of Prayers for every day in the week, Morning and Evening, and Graces
+<pb facs="tcp:211656:13"/> before and after Meat, with a short chatechisme, fitted for the weak capacities of little children.</item>
+                  <item>The sinners warning peice, or Heavens Mes<g ref="char:EOLhyphen"/>sengers, by <hi>T. Robins,</hi> B. of D.</item>
+                  <item>The Schollars winter Garment, or the garment of Righteousness: by T. R. B. of D.</item>
+                  <item>Englands golden Legacy, or a brief descripti<g ref="char:EOLhyphen"/>on of the manifold mercies the Lord hath be<g ref="char:EOLhyphen"/>stowed upon this sinful Nation.</item>
+                  <item>A Wonder of Wonders, or Gods peopl<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, the Worlds wonder, by R. <hi>Hough.</hi>
+                  </item>
+                  <item>Gods message f<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>om Heaven, to sinn<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>s on Earth, by <hi>T. P</hi> B. of L.</item>
+                  <item>Christ upon the cross, suffering for poor Sinners.</item>
+                  <item>Gods call to unconverted sinners, to tu<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> from their sins and repent, a very useful and comfor<g ref="char:EOLunhyphen"/>table book.</item>
+               </list> These Eight Books are very useful and profi<g ref="char:EOLhyphen"/>table for all that shall make use of them, and are sold for two pence a piece.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="license">
+            <p>Licensed according to Order.</p>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:211656:14"/>
+            <p>
+               <figure/>
+            </p>
+            <pb facs="tcp:211656:14"/>
+         </div>
+      </back>
+   </text>
+</TEI>
